@@ -1,7 +1,7 @@
 import axios from "axios";
 import { Leap } from "@leap-ai/sdk";
 
-const leap = new Leap("YOUR API KEY GOES HERE")
+const leap = new Leap("b1ee7306-66ae-4839-8790-6b3e7d7f9db0")
 
 // Fine-tune a model with Harry Potter Image Samples. 
 // For fine-tuning tips see https://guides.tryleap.ai/guides/faqs-avatar-fine-tuning 
